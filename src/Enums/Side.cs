@@ -1,0 +1,8 @@
+
+
+enum Side
+{
+  White,
+  Black
+}
+

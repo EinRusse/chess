@@ -1,0 +1,14 @@
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\bin\Debug\net8.0\fundamentos.exe
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\bin\Debug\net8.0\fundamentos.deps.json
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\bin\Debug\net8.0\fundamentos.runtimeconfig.json
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\bin\Debug\net8.0\fundamentos.dll
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\bin\Debug\net8.0\fundamentos.pdb
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfoInputs.cache
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.AssemblyInfo.cs
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.csproj.CoreCompileInputs.cache
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.dll
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\refint\fundamentos.dll
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.pdb
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\fundamentos.genruntimeconfig.cache
+c:\Users\Pichau\Projetos\Dotnet\fundamentos\obj\Debug\net8.0\ref\fundamentos.dll

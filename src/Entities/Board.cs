@@ -203,7 +203,7 @@ class Board
       else if (key.Key is ConsoleKey.Q)
       {
         Console.Clear();
-        Console.WriteLine("Exiting progam!");
+        Console.WriteLine("Exiting program!");
 
         Task.Run(async () =>
         {

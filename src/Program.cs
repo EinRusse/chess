@@ -10,7 +10,7 @@ async Task<ConsoleKey> ReadControlSettings()
     {
       ended = true;
       Console.Clear();
-      Console.WriteLine("Exiting progam!");
+      Console.WriteLine("Exiting program!");
       await Task.Delay(1000);
       Environment.Exit(0);
     }
